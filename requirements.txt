@@ -1,0 +1,4 @@
+PyMySQL==0.9.3
+pandas==0.25.1
+numpy==1.16.5
+XlsxWriter==1.2.1
