@@ -15,3 +15,6 @@ After automatically analyzing the sales data and generating a report, send it to
 - core文件存放逻辑文件
 - data为测试数据
 - run是运行主程序
+
+## 程序入口
+修改并运行run.py实现对数据下载，数据保存，数据分析和邮件发送操作
